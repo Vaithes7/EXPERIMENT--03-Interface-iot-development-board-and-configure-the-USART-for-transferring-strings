@@ -6,7 +6,7 @@
 
 **ROLL NO: 212224110059**
 
-**DEPARTMENT: B.Tech IT**
+**DEPARTMENT: CSE(IOT)**
 
 ## Aim:
 
